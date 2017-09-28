@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="primary_color">#ff00bfbb</color>
+    <color name="primary_color_selected">#aa00bfbb</color>
+
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>
+
+    <color name="s1">#A7FFEB</color>
+    <color name="s2">#64FFDA</color>
+    <color name="s3">#1DE9B6</color>
+    <color name="s4">#00bfa5</color>
+
+    <color name="blue">#2D69BC</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="negro_semitransparente">#B2000000</color>
+    <color name="app_primary">#1976D2</color>
+    <color name="grey">#DDDDDD</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="black">#000</color>
+
+    <color name="darkPrimaryColor">#D32F2F</color>
+    <color name="primaryColor">#F44336</color>
+    <color name="accentColor">#448AFF</color>
+
+    <color name="ColorPrimary2">#e62117</color>
+    <color name="ColorPrimaryDark2">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+
+
+    <color name="red">#ff0000</color>
+    <color name="menu_list_divider">#497d95</color>
+    <color name="menu_background">#225a70</color>
+    <color name="dark_blue">#318599</color>
+
+    <color name="red_dark1">#990000</color>
+    <color name="red_dark2">#7a0000</color>
+    <color name="red_dark3">#4f0202</color>
+
+
+    <color name="CINZA_LIGHT">#efefef</color>
+    <color name="CINZA">#BEBEBE</color>
+
+    <color name="ColorPrimary">#ff3980f6</color>
+    <!--  <color name="red_login">#ed1c24</color>
+     <color name="red_login2">#b10f04</color>   -->
+    <color name="gray_text">#bfbfbf</color>
+
+    <color name="light_gray">#eeeeee</color>
+    <color name="light_black">#747474</color>
+
+    <color name="gray">#333333</color>
+
+    <color name="blue0">#33B5E5</color>
+    <color name="blue1">#0099CC</color>
+    <color name="blue2">#FF5C6BC0</color>
+    <color name="blue_accent0">#ff536dfe</color>
+    <color name="blue_accent1">#ff651fff</color>
+    <color name="blue_accent2">#ff304ffe</color>
+    <color name="blue_accent3">#FF6200EA</color>
+    <color name="button_material_dark_0">#ff5a595b</color>
+
+    <color name="purple0">#AA66CC</color>
+    <color name="purple1">#9933CC</color>
+    <color name="purple2">#FF9575CD</color>
+    <color name="purple_accent">#ffd500f9</color>
+
+    <color name="green0">#99CC00</color>
+    <color name="zun_call_color">#019247</color>
+    <color name="green">#669900</color>
+    <color name="green_accent">#ff76ff03</color>
+
+    <color name="orange0">#FFBB33</color>
+    <color name="orange">#FF8800</color>
+
+    <color name="red0">#FF4444</color>
+    <color name="red1">#CC0000</color>
+    <color name="red2">#FFE53935</color>
+    <color name="red3">#FFB71C1C</color>
+    <color name="red_accent">#ffff1744</color>
+    <color name="pink_accent">#fff50057</color>
+
+
+    <color name="app_title_color">#ffffffff</color>
+    <color name="action_bar_color">#ffeab16c</color>
+    <color name="dialog_back">#e5eab16c</color>
+    <color name="main_services">#ffe24264</color>
+    <color name="main_services_sec">#ffd898a9</color>
+    <color name="main_services_sec1">#AA66CC</color>
+    <color name="free_services">#ffed7a7a</color>
+    <color name="free_services_sec">#ffe5aaaa</color>
+    <color name="pay_services">#ff069684</color>
+    <color name="pay_services_sec">#ff0abca2</color>
+    <color name="transferir_saldo">#ffd36284</color>
+    <color name="transferir_saldo_sec">#fff4bdcf</color>
+    <color name="text">#ffffffff</color>
+    <color name="zodiac_back">#99000000</color>
+    <color name="zodiac_back_symbols">#998ff2e4</color>
+    <color name="zodiac_text">#ff034c40</color>
+    <color name="trans_saldo_timer">#ff1bbc9b</color>
+    <color name="text_hint">#ff555555</color>
+    <color name="desc_text_color">@android:color/white</color>
+    <color name="free_services_text_title">#ffb71313</color>
+    <color name="pay_services_text_title">#ff034c40</color>
+    <color name="main_services_text_title">#ff84063f</color>
+    <color name="transferir_saldo_text">#ff84083a</color>
+
+    <color name="Gris">#ffb6b6b6</color>
+    <color name="Blanco">#ffffffff</color>
+
+</resources>

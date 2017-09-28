@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">ZunCall Android</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="company_name">UEB GET Holguin</string>
+    <string name="company_email">reinier.leyva@get.hlg.tur.cu</string>
+    <string name="ms_99_title">Llamada con *99</string>
+    <string name="ms_99_desc">Realiza una llamada a uno de sus contactos donde paga el receptor.</string>
+    <string name="ms_222_title">Consultar saldo</string>
+    <string name="ms_222_desc">Consulta su saldo de forma rápida maracando al *222#.</string>
+    <string name="ms_31_title">Llamada anónima</string>
+    <string name="ms_31_desc">Llama a un número de forma tal que el receptor no sabe quien lo llama.</string>
+    <string name="ms_transeferir_desc">Transferir saldo rapido o cambiar su contrasena de transeferencia.</string>
+    <string name="ms_recargar_desc">Recargar su celular con solo poner el codigo de recarga.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="servicios">Services</string>
+    <string name="packete">Packete</string>
+    <string name="ofertas">Ofertas</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna tortor, semper eu feugiat eu, vehicula vitae lacus.</string>
+    <string name="lorem_ipsum_large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ultricies risus. Integer nisi orci, lacinia sit amet mi in, mollis scelerisque purus. Nunc risus ligula, maximus eu orci a, facilisis dictum velit. Proin nec laoreet magna. Nulla ut sagittis lorem. Morbi id enim fermentum, semper diam et, tempus leo. Aliquam vel congue orci. Suspendisse potenti. Curabitur finibus diam augue, vel bibendum sapien ultrices non.</string>
+
+
+    <string name="rep_cell">Reparación de celulares</string>
+    <string name="rep_ordenadores">Reparación de ordenadores</string>
+    <string name="rep_flash_memory">Reparación de memorias flash</string>
+    <string name="sim_card_adjustment">Ajuste de SIM CARD</string>
+    <string name="rep_impresoras">Reparación de impresoras</string>
+    <string name="inst_antivirus">Instalación de antivirus </string>
+    <string name="mant_hard">Mantenimiento de hardware</string>
+    <string name="flasheo_hdd">Flasheo de HDD</string>
+    <string name="rep_mouse">Reparación de Mouse</string>
+    <string name="inst_windows">Instalación de Windows</string>
+    <string name="inst_linux">Instalación de Linux</string>
+    <string name="title_activity_servicios">ServiciosActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_add">Add</string>
+    <string name="action_favorite">Favorite</string>
+
+    <string name="girl_ipsum">
+        Morbi posuere lorem nec elit dapibus, vitae accumsan mauris pellentesque.
+        Vestibulum a lobortis mi. Vestibulum lacinia molestie semper. Pellentesque
+        ultrices arcu lacus, interdum mollis nibh convallis ut. Aliquam sagittis
+        sem a lacus gravida, eu accumsan purus volutpat. Donec tempus, est id
+        tristique consectetur, lacus ligula dignissim turpis, cursus commodo turpis
+        libero in purus. Phasellus tempus gravida tempor.
+    </string>
+    <string name="menu_search">Search</string>
+    <string name="title_activity_main_activity_test">MainActivityTest</string>
+    <string name="searchable">Searchable</string>
+    <string name="action_clear_history">Clear history</string>
+    <string name="user_profile">User profile</string>
+    <string name="money_in_calls">Money in calls</string>
+    <string name="calls">Calls</string>
+    <string name="contacts_list">Contact list</string>
+    <string name="user_account">User account</string>
+    <string name="action_about">About</string>
+    <string name="no_results_were_founds">No results were founds for this date:</string>
+    <string name="password">password</string>
+    <string name="remember_data">Remember data</string>
+    <string name="login">Login</string>
+    <string name="recover_password">Recovery password</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="user">user</string>
+    <string name="getting_information">Getting server information.</string>
+    <string name="volley_error">Error</string>
+    <string name="no_internet_connection_body">Connection error, the WIFI is not connected.</string>
+    <string name="connection_error">Connection error</string>
+    <string name="action_language">language</string>
+    <string name="advanced">Advanced</string>
+    <string name="serverAddress">Server address</string>
+    <string name="methodGetAllCalls">Method getAllCalls</string>
+    <string name="import_zuncall_message1">The duration of all calls was %s min</string>
+    <string name="import_zuncall_message2">and %s cuc of cost.</string>
+    <string name="import_zuncall_title">ZunCall report</string>
+    <string name="sqlite_error">SQLite error</string>
+    <string name="error_writing_in_db">Error writing in database</string>
+    <string name="user_exists">The user already exists.</string>
+    <string name="empty_fields">There are empty fields</string>
+    <string name="information">Information</string>
+    <string name="user_does_not_exist">The user does not exist.</string>
+    <string name="error">Error</string>
+    <string name="password_incorrect">Password incorrect.</string>
+    <string name="storeCallsInCache">Keep yor calls in the application cache.</string>
+    <string name="storeCalls">Store all calls</string>
+    <string name="login_in_progress">Login in progress</string>
+    <string name="update_uuser_profile_btn">Update</string>
+    <string name="profile_user_password_text"> New password</string>
+    <string name="profile_user_text">Username</string>
+    <string name="profile_user_phone_number_text">Phone</string>
+    <string name="profile_user_email_text">Email</string>
+    <string name="profile_user_name_text">Full Name</string>
+    <string name="profile_updated">Profile updated successfuly.</string>
+    <string name="action_set_date">Set date</string>
+    <string name="action_help">Help</string>
+    <string name="help_start">START</string>
+    <string-array name="help_footer">
+        <item value="1" />
+        <item value="2" />
+        <item value="3" />
+        <item value="4" />
+    </string-array>
+    <string name="help_login">Login using user and password.</string>
+    <string name="help_add_set_query_date">Specific a date to find your calls.</string>
+    <string name="help_add_to_contact">You can add your calls into contacts directory.</string>
+    <string name="help_get_calls">The main window is used for view the calls.</string>
+    <string name="help_get_calls_import">A detailed import report for calls.</string>
+    <string name="date_toquery_selected">You have pick the following date: </string>
+    <string name="user_does_not_exist_on_zuncall">The user does not exist in ZunCall database.</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="cost">Call cost</string>
+    <string name="duration">Call duration</string>
+</resources>

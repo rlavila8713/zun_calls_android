@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="languageName"
+        android:summary="Language selected"
+        android:title="@string/action_language">
+        <!--<intent
+            android:targetPackage="com.xkoders.people"
+            android:targetClass="com.xkoders.people.activities.LanguageActivity"
+            android:action="android.intent.action.view"/>-->
+    </Preference>
+
+    <PreferenceCategory android:title="@string/advanced">
+        <EditTextPreference
+            android:key="API_URL"
+            android:title="@string/serverAddress" />
+        <EditTextPreference
+            android:key="GET_ALL_CALLS"
+            android:title="@string/methodGetAllCalls" />
+    </PreferenceCategory>
+    <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="STORE_CALLS"
+            android:summary="@string/storeCallsInCache"
+            android:title="@string/storeCalls"/>
+
+    <!--<CheckBoxPreference
+            android:defaultValue="true"
+            android:key="preferSD"
+            android:summary="@string/descPreferSDCard"
+            android:title="@string/preferSDCard"/>-->
+
+</PreferenceScreen>
